@@ -1,1 +1,1 @@
-# VeriOrganizasyonuOdevler
+# VeriOrganizasyonu
